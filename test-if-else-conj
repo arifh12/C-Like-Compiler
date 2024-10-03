@@ -1,0 +1,9 @@
+int age;
+age = 24;
+
+if (age < 18 || age >= 65) {
+ print("dependent") 
+}
+else {
+ print("non dependent");
+}

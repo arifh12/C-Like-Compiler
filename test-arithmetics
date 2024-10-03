@@ -1,0 +1,21 @@
+float num1;
+float num2;
+float sum;
+float subtract;
+float product;
+float quotient;
+
+num1 = 8;
+num2 = 2;
+
+sum = num1 + num2;
+print(sum);
+
+subtract = num1 - num2;
+print(subtract);
+
+product = num1 * num2;
+print(product);
+
+quotient = num1 / 2;
+print(quotient);

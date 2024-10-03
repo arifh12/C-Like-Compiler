@@ -1,0 +1,13 @@
+float n;
+input n;
+
+int x;
+x = 0;
+int total;
+total = 0;
+
+while (x <= n) {
+total = total + x; 
+x = x + 1;
+};
+print(total);
